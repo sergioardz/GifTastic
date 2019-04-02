@@ -1,0 +1,28 @@
+head, body {
+    background: rgb(236, 235, 235);
+}
+label {
+    font-weight: bold;
+}
+.search-item {
+    float: left;
+    padding: 5px;
+}
+.searchButton {
+    padding: 3px;
+    margin: 3px;
+    background: rgb(35, 117, 241);
+    color: white;
+}
+form {
+    margin-right: 50px;
+    text-align: right;
+}
+#buttons {
+    margin-top: 20px;
+    padding: 10px;
+}
+input {
+    padding: 3px;
+    margin: 3px;
+}
