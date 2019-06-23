@@ -5,7 +5,7 @@ Homework Week 06
 This HW is about using the GIPHY API to reinforce the concepts of using APIs and retrieve data from them through the jQuery $ajax Method.
 
 ### Link
-https://sergioardz79.github.io/GifTastic/index.html
+https://sergioardz.github.io/GifTastic/index.html
 
 ### What the project does
 Creates a web page that populate its content with Gifs of certain choices or themes, and that will allow for new themes or choices to be added to the declared initial ones.
