@@ -20,4 +20,4 @@ It is just for educational purposes, feel welcome to explore my coding.
 It is just for educational purposes, feel welcome to explore my coding.
 
 ### Who maintains and contributes to the project
-sergioardz79.
+sergioardz.
